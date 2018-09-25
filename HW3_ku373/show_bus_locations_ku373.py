@@ -46,8 +46,8 @@ print('Number of Active Buses : ', Howmanybuses)
 
 
 for i in range(Howmanybuses):
-    print('Bus',i, 'is at', data['Siri']['ServiceDelivery']["VehicleMonitoringDelivery"][0]["VehicleActivity"][i]\
-['MonitoredVehicleJourney']['VehicleLocation']['Latitude'],'and',\
+    print('Bus',i, 'is at latitude', data['Siri']['ServiceDelivery']["VehicleMonitoringDelivery"][0]["VehicleActivity"][i]\
+['MonitoredVehicleJourney']['VehicleLocation']['Latitude'],'and longitude',\
           data['Siri']['ServiceDelivery']["VehicleMonitoringDelivery"][0]["VehicleActivity"][i]\
 ['MonitoredVehicleJourney']['VehicleLocation']['Longitude'])
 
