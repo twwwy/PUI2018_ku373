@@ -1,14 +1,13 @@
 # HW4
 
 ## Questions and Tasks
-HW4 is devided into four parts. 
-- Create and delete files and thier histories
-- Read open data and change it
-- Read API and show the contents
-- Get output and put it into CSV
+HW4 is devided into three parts.
+-Distribution
+-Citibike
+-Z-score
 
 ## Contributions
-HW3 has been done by Kenji Uchimoto alone.
+HW4 has been done by Kenji Uchimoto alone. 
 
 ## Acknowledgements
-TA, Mr Fu helped me to understand the contents of HW. ![Alt text](images/HW3_ku373_test_screenshot1.png) ![Alt text](images/HW3_ku373_test_screenshot2.png) ![Alt text](images/HW3_ku373_test_screenshot3_after_delete.png) 
+TA, Mr Fu helped me to understand the contents of HW. Mr. Duke helped me too.
