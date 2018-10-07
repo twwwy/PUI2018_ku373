@@ -16,11 +16,14 @@ Logistic regression	|	3, Singleton, twin and triplet births	|	categorical	|	1, P
 |||||||||
 
 ### Anova
+
 ![main plot](image/Anova.png)
 
 ### Multiple
+
 ![main plot](image/Multiple.PNG)
 
 ### Logistic
+
 ![main plot](image/Logistic.PNG)
 
