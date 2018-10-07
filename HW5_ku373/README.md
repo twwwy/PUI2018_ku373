@@ -15,7 +15,12 @@ Multiple regression	|	10, (X1) male = 1, female = 2; (X3) maxillary = 1, mandibl
 Logistic regression	|	3, Singleton, twin and triplet births	|	categorical	|	1, Probability of Mortality | dichotomous	|	0	|	-	|	Are there any differences in motality rate in different birth groups?	|	Singleton = twin = triplet in Prob of mortality	|	0.05	|	[Multiple birth rates of Korea and fetal/neonatal/infant mortality in multiple gestation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202318) |
 |||||||||
 
-
-
-
+### Anova
 ![main plot](image/Anova.png)
+
+### Multiple
+![main plot](image/Multiple.PNG)
+
+### Logistic
+![main plot](image/Logistic.PNG)
+
