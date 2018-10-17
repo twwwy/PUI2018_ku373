@@ -1,12 +1,21 @@
+# HW5
+
+## Questions and Tasks
+HW5 is devided into three parts.
+
+-Review
+-Literatures of tests
+-Reproduce tests
+-Citibike and extra
+
+## Contributions
+HW5 has been done by Kenji Uchimoto alone. I reviewed the HW4 of Yusu(yq729).
+
+## Acknowledgements
+Mr. Sung helped me.
 
 
-
-
-
-
-Assignment 2
-
-
+## Assignment 2
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
